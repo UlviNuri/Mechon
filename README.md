@@ -1,1 +1,3 @@
 # Mechon
+
+fermanin sayti
